@@ -1,0 +1,17 @@
+window {
+
+
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/50/Translucent_Helix_Nebula.png");
+
+
+   background-size: cover;
+
+
+   background-repeat: no-repeat;
+
+
+   background-position: center;
+
+
+   background-color: black;
+}
