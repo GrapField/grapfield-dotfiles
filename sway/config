@@ -72,7 +72,7 @@ set $menu dmenu_path | wmenu | xargs swaymsg exec --
     bindsym print exec grim -g "$(slurp -d)" - | wl-copy -t image/png
     # Start a terminal
     bindsym $mod+Return exec $term
-
+    bindsym $mod+Shift+Return exec firefox
     # Kill focused window
     bindsym $mod+w kill
 
